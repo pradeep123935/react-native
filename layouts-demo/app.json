@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "layouts",
-    "slug": "layouts",
+    "name": "layouts-demo",
+    "slug": "layouts-demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
